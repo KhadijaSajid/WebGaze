@@ -10,6 +10,14 @@ The script takes a website URL as input and returns the URL of the hosted image 
 
 1. Get your api key by signing in.
 2. Change the API_KEY to your imgbb api key.
+3. Change the website url you wish to take a screenshot of.
+4. You can also change the width and height to your desire and need.
 
+
+### How to use
+
+```
+node webgaze.cjs
+```
 
 
