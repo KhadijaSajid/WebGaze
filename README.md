@@ -17,6 +17,7 @@ The script takes a website URL as input and returns the URL of the hosted image 
 ### How to use
 
 ```
+npm install
 node webgaze.cjs
 ```
 
